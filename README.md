@@ -9,4 +9,4 @@ User can delete full list at once also.
 3. A bit of Local Storage application.
 
 Here is a snapshot of the list
-[image](https://github.com/01DarshanPatni/ToDo-list/blob/master/snapshot.png)
+![snapshot](https://github.com/01DarshanPatni/ToDo-list/assets/95132151/c973b5bb-92d0-434c-897a-f12f3cb41078)
